@@ -1,0 +1,19 @@
+body{
+	margin:0px;
+}
+#home{
+	visibility:hidden;
+}
+#search{
+	visibility:hidden;
+}
+#logout{
+	visibility:hidden;
+}
+#aboutdiv{
+	position:absolute;
+	margin-top:10%;
+	margin-left:40%;
+	padding:50px;
+	background-color:#efefef;
+}

@@ -1,0 +1,46 @@
+#home{
+	visibility:hidden;
+}
+#search{
+	visibility:hidden;
+}
+#logout{
+	visibility:hidden;
+}
+#msg{
+	color:#fff;
+	background-color:#cc0033;
+	width:50%;
+	margin-left:200px;
+	text-align:center;
+}
+#login{
+	background:#efefef;
+	/*position:absolute;
+	width:30%;
+	height:60%;
+	left:35%;
+	top:20%;
+	*/
+}
+#form1{
+	margin-left:10%;
+	margin-top:10%;
+
+}
+#register{
+	background:#efefef !important;
+	/*position:absolute;
+	width:30%;
+	height:100%;
+	left:70%;
+	*/
+}
+#form2{
+	/*position:absolute;*/
+	margin-left:10%;
+	margin-top:10%;
+}
+
+
+

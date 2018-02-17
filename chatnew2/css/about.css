@@ -1,0 +1,10 @@
+body{
+	margin:0px;
+}
+#aboutdiv{
+	position:absolute;
+	margin-top:10%;
+	margin-left:40%;
+	padding:50px;
+	background-color:#efefef;
+}
